@@ -12,11 +12,11 @@ The objective is to understand the fundamentals of Generative AI application dev
 
 ### Chatbot Interface
 
-![Gemma Chatbot](screenshots/chatbot-home.png)
+![Gemma Chatbot](screenshots/chatbot-home-1.png)
 
 ### LangSmith Execution Trace
 
-![LangSmith Trace](screenshots/langsmith-trace.png)
+![LangSmith Trace](screenshots/langsmith-trace-1.png)
 
 
 ## 🚀 Features
