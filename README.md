@@ -8,6 +8,16 @@ This project demonstrates how to build an LLM-powered application using **LangCh
 The objective is to understand the fundamentals of Generative AI application development and LLM observability through hands-on implementation.
 
 ---
+## 🖥️ Application Screenshots
+
+### Chatbot Interface
+
+![Gemma Chatbot](screenshots/chatbot-home.png)
+
+### LangSmith Execution Trace
+
+![LangSmith Trace](screenshots/langsmith-trace.png)
+
 
 ## 🚀 Features
 
